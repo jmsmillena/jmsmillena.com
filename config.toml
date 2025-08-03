@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://jmsmillena.github.io/my-zola-website"
+base_url = "https://http://127.0.0.1:1111"
 
 # The site title and description; used in feeds by default.
 title = "James Millena"
